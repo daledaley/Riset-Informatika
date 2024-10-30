@@ -12,4 +12,4 @@
 </table>
 
 # Deskripsi
-Pengumpulan tugas diupload pada akun github masing - masing mahasiswa.
+Tugas Riset Informatika
